@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1433402288 source:c:\users\aleksandras\desktop\work\codeblocks\laboras_8\kursinis_darbas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"stulpeliu_suma.h"
+
+1433371750 c:\users\aleksandras\desktop\work\codeblocks\laboras_8\kursinis_darbas\stulpeliu_suma.h
+
+1433402288 source:c:\users\logo\„google“ diskas\viko\2 metai\1 semestras\programavimas\codeblocks\1 metai c#\laboras_8\kursinis_darbas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"stulpeliu_suma.h"
+
+1433371750 c:\users\logo\„google“ diskas\viko\2 metai\1 semestras\programavimas\codeblocks\1 metai c#\laboras_8\kursinis_darbas\stulpeliu_suma.h
+
